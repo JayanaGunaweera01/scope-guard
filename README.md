@@ -1,4 +1,4 @@
-# ScopeGuard
+# ScopeGuard - I Built a Local AI That Stops Freelancers Doing Free Work!
 
 **A scope-creep guard for freelancers. It reads your signed agreement and your client's message with an open model on your own laptop, shows what you are about to do for free, and drafts the change order.**
 
