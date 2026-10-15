@@ -6,8 +6,6 @@
 
 **Watch the demo: https://youtu.be/MQqcnGHszRc**
 
-![What it found](docs/results.png)
-
 A client writes *"great! Could you also make it work on mobile, and one more round on the colours?"* and you say yes,
 because checking the contract is tedious and the ask feels small. Over a project that is hours of unbilled work.
 ScopeGuard checks every message in seconds.
